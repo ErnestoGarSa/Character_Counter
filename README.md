@@ -19,4 +19,5 @@ How It Works
 As you type into the input field, JavaScript listens for changes.
 The program updates the counter immediately using the DOM.
 If the character count reaches 50, the counter text changes color to red.
+
 # Character_Counter
